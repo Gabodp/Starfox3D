@@ -45,13 +45,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bfc9a0cc375235498a6d1fa3bb968cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lifePoints: 120
+  lifePoints: 20
   scoreValue: 1
   targetable: 1
   explosion: {fileID: 1828176872806910, guid: 64891a0eb28db934898420d80ca07cb3, type: 3}
-  onViewportX: 0.5
-  onViewportY: 0.4
-  zOffset: 30
+  posX: 0
+  posY: 0
+  zDistance: 0
 --- !u!65 &4225037057387970571
 BoxCollider:
   m_ObjectHideFlags: 0
